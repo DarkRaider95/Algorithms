@@ -1,2 +1,2 @@
 # Algorithms
-This repository contains my exercises and projects for the course of Algorith of the bachelor degree
+This repository contains my exercises and projects for the Algorithms course of the bachelor's degree
